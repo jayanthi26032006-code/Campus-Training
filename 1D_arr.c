@@ -14,4 +14,5 @@ int main()
         arr[i]=sum;
         printf("%d ",arr[i]);
     }
+    return 0;
 }
